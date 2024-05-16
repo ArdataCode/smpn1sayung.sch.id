@@ -1,0 +1,4 @@
+[01-Feb-2024 22:37:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/smpn1sayung.sch.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/smpn1sayung.sch.id/wp-includes/blocks/index.php on line 8
